@@ -1,0 +1,2 @@
+# Barcode_Kripto
+Barcode
